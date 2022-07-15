@@ -1,4 +1,5 @@
-Uses JSP and servlet as well as the MVC architecture and maven as build tools to build this web based project.
+Used JSP and servlet as well as the MVC architecture and maven as build tools to build this web based project.
+
 
 # Food-Delivery
 ![image](https://user-images.githubusercontent.com/69872931/179301513-c2a9f7fd-0929-4b5a-ab50-6b0dba2e872c.png)
