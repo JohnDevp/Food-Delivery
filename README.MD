@@ -32,6 +32,8 @@ Using a graphical interface, it will allow an Admin to manage the menu that is d
 
 ![image](https://user-images.githubusercontent.com/69872931/179301706-44c2338e-c9b5-4ecf-b306-b5444e0574e2.png)
 
+![6](https://user-images.githubusercontent.com/69872931/179866402-b0dc8414-8d10-461c-ad46-915652b76b28.PNG)
+
 ![Capture](https://user-images.githubusercontent.com/69872931/179866254-b2226f0e-b3ff-48da-9f18-8acbbdd6aa52.PNG)
 
 ![3](https://user-images.githubusercontent.com/69872931/179866268-99804139-9746-4b39-905f-2c4478721711.PNG)
@@ -39,9 +41,4 @@ Using a graphical interface, it will allow an Admin to manage the menu that is d
 ![2](https://user-images.githubusercontent.com/69872931/179866278-8d238c2f-a528-48b6-b979-a61de92828c7.PNG)
 
 ![4](https://user-images.githubusercontent.com/69872931/179866287-90c864e3-0301-424c-a858-7c2ea10fa72f.PNG)
-
-![5](https://user-images.githubusercontent.com/69872931/179866293-184866ae-fb55-4dd8-a954-b1097280e6e6.PNG)
-
-
-
 
