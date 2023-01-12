@@ -6,10 +6,10 @@ Used JSP and servlet as well as the MVC architecture and maven as build tools to
 
 **Food Ordering System Module**
 This module provides the functionality for customers to place their order and supply necessary details. Users of the system, namely restaurant customers, must be provided the following functionality:
-•	Create an account.
-•	Manage their account.
-•	Log in to the system.
-•	Navigate the restaurant’s menu.
+•	Create an account. /n
+•	Manage their account. /n
+•	Log in to the system. /n
+•	Navigate the restaurant’s menu. /n
  
 •	Select an item from the menu.
 •	Add an item to their current order.
