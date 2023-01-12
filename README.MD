@@ -11,14 +11,14 @@ This module provides the functionality for customers to place their order and su
 •	Log in to the system. <br/>
 •	Navigate the restaurant’s menu. <br/>
  
-•	Select an item from the menu.
-•	Add an item to their current order.
-•	Review their current order.
-•	Remove an item/remove all items from their current order.
-•	Provide payment details.
-•	Place an order.
-•	Receive confirmation in the form of an order number.
-•	View order placed.
+•	Select an item from the menu. <br/>
+•	Add an item to their current order. <br/>
+•	Review their current order. <br/>
+•	Remove an item/remove all items from their current order. <br/>
+•	Provide payment details. <br/>
+•	Place an order. <br/>
+•	Receive confirmation in the form of an order number. <br/>
+•	View order placed. <br/>
 
 **Menu Management System Module**
 This module provides functionality for the power user-Administrator only. It will not be available to any other users of the system like Restaurant Employees or Customers.
