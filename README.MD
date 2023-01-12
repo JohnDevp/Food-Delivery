@@ -23,10 +23,10 @@ This module provides the functionality for customers to place their order and su
 **Menu Management System Module**
 This module provides functionality for the power user-Administrator only. It will not be available to any other users of the system like Restaurant Employees or Customers.
 Using a graphical interface, it will allow an Admin to manage the menu that is displayed to users of the web ordering system:
-•	Add/update/delete food category to/from the menu.
-•	Add /update/delete food item to/from the menu.
-•	Update price for a given food item.
-•	Update additional information (description, photo, etc.) for a given food item.
+•	Add/update/delete food category to/from the menu. <br/>
+•	Add /update/delete food item to/from the menu. <br/>
+•	Update price for a given food item. <br/>
+•	Update additional information (description, photo, etc.) for a given food item. <br/>
 
 ![image](https://user-images.githubusercontent.com/69872931/179301643-de3f638a-3bc4-46e6-8cd2-821eeb68894f.png)
 
